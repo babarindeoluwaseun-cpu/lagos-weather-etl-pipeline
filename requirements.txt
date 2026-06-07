@@ -2,3 +2,5 @@ requests
 pandas
 SQLAlchemy
 psycopg2-binary
+dash
+plotly
